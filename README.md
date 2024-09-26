@@ -3,7 +3,7 @@
 - É uma coleção de pares chave/valor <br>
 - Não admite repetições do objeto chave <br>
 - Os elementos são indexados pelo objeto chave (não possuem posição) <br>
-- Acesso, inserção e remoção de elementos são rápidos <br>
+- Acesso, inserção e remoção de elementos são rápidos <br> 
 - **Uso comum**: cookies, local storage, qualquer modelo chave-valor <br>
   
 ## Principais Implementações:
